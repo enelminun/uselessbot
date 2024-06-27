@@ -7,4 +7,4 @@ client.once(Events.ClientReady, readyClient => {
 });
 
 //Token:
-client.login("Your bot's token must be here!");
+client.login("Bot Token!");
